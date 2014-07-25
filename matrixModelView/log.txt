@@ -1,0 +1,56 @@
+===== Log started at 2014-07-25, 11:50:46. =====
+
+11:50:46  Main window is created.
+11:50:47  Created a rendering thread for OpenGL.
+11:50:47  Changed OpenGL rendering window size: 296x596.
+11:50:47  OpenGL child window is created.
+11:50:47  Initialized OpenGL states.
+11:50:47  Entering OpenGL rendering thread...
+11:50:47  OpenGL form dialog is created.
+11:50:47  Changed OpenGL rendering window size: 256x516.
+11:50:53  Changed OpenGL rendering window size: 903x814.
+11:51:18  Changed OpenGL rendering window size: 256x516.
+11:51:19  Changed OpenGL rendering window size: 256x515.
+11:51:19  Changed OpenGL rendering window size: 279x545.
+11:51:19  Changed OpenGL rendering window size: 335x589.
+11:51:20  Changed OpenGL rendering window size: 367x607.
+11:51:20  Changed OpenGL rendering window size: 374x609.
+11:51:20  Changed OpenGL rendering window size: 379x613.
+11:51:20  Changed OpenGL rendering window size: 389x619.
+11:51:20  Changed OpenGL rendering window size: 412x629.
+11:51:20  Changed OpenGL rendering window size: 450x642.
+11:51:20  Changed OpenGL rendering window size: 478x647.
+11:51:20  Changed OpenGL rendering window size: 479x647.
+11:51:20  Changed OpenGL rendering window size: 481x647.
+11:51:20  Changed OpenGL rendering window size: 474x641.
+11:51:20  Changed OpenGL rendering window size: 416x617.
+11:51:20  Changed OpenGL rendering window size: 343x611.
+11:51:20  Changed OpenGL rendering window size: 313x611.
+11:51:21  Changed OpenGL rendering window size: 281x611.
+11:51:21  Changed OpenGL rendering window size: 265x611.
+11:51:21  Changed OpenGL rendering window size: 251x616.
+11:51:21  Changed OpenGL rendering window size: 243x620.
+11:51:21  Changed OpenGL rendering window size: 243x621.
+11:51:21  Changed OpenGL rendering window size: 244x630.
+11:51:21  Changed OpenGL rendering window size: 272x633.
+11:51:21  Changed OpenGL rendering window size: 308x633.
+11:51:21  Changed OpenGL rendering window size: 312x633.
+11:51:21  Changed OpenGL rendering window size: 314x632.
+11:51:22  Changed OpenGL rendering window size: 903x814.
+11:51:23  Changed OpenGL rendering window size: 314x632.
+11:56:31  Changed OpenGL rendering window size: 0x0.
+12:41:49  Changed OpenGL rendering window size: 314x632.
+12:41:50  Changed OpenGL rendering window size: 0x0.
+12:41:51  Changed OpenGL rendering window size: 314x632.
+12:46:44  Changed OpenGL rendering window size: 0x0.
+12:51:43  Changed OpenGL rendering window size: 314x632.
+15:04:38  Changed OpenGL rendering window size: 0x0.
+15:18:16  Changed OpenGL rendering window size: 314x632.
+15:22:01  Changed OpenGL rendering window size: 0x0.
+15:30:30  Changed OpenGL rendering window size: 314x632.
+15:30:31  Changed OpenGL rendering window size: 0x0.
+15:43:05  Changed OpenGL rendering window size: 314x632.
+15:43:06  Changed OpenGL rendering window size: 0x0.
+15:45:11  Changed OpenGL rendering window size: 314x632.
+15:57:14  Changed OpenGL rendering window size: 0x0.
+15:59:44  Changed OpenGL rendering window size: 314x632.
